@@ -4,9 +4,11 @@ markdown_files/
 __pycache__/
 venv/
 .venv/
+downloader
 
 # Ignore files
 .env
 preprocess.py
 *.pyc
 .DS_Store
+discourse_downloader.py
